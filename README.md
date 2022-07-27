@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+[Preview Link For My Implementation](https://mohamedsaafan.github.io/frontendmentor-QRCode-card/)
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
