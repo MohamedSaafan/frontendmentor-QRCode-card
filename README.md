@@ -22,6 +22,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Screenshot
 
+![Desktop Preview](./frontendmentors-qrcode-desktop.png "Desktop View")
 ![Mobile view](./frontendmentor-mobile-screenshot.png "Mobile View")
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design.
